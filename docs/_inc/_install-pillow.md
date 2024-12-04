@@ -11,7 +11,7 @@ brew install zlib libjpeg
 
 ````{tab-item} Linux
 ```shell
-apt-get zlib libjpeg
+apt install zlib1g-dev libjpeg8-dev
 ```
 ````
 `````
