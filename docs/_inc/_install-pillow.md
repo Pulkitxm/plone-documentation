@@ -1,5 +1,5 @@
 ``````{note}
-After generating a project, then running `make install`, if you see an error message `ERROR: Failed building wheel for Pillow`, then you need to install Pillow's dependencies.
+After generating a project, then running `make install`, if you see an error message `ERROR: Failed building wheel for Pillow` or `The headers or library files could not be found for jpeg, a required dependency when compiling Pillow from source.`, then you need to install Pillow's dependencies.
 
 `````{tab-set}
 
